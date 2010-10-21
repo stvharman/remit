@@ -1,5 +1,6 @@
 .idea
 test.sh
+test.example
 remit-*.gem
 pkg
 rdoc
